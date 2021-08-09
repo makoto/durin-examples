@@ -1,5 +1,6 @@
 const durin = require('makotodurin');
-const ethers = require('ethers');
+// const ethers = require('ethers');
+const ethers = require("@nomiclabs/hardhat-ethers");
 const server = new durin.Server();
 require('dotenv').config()
 

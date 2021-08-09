@@ -21,7 +21,7 @@ Copy .env.org to .env and fill in the followings
 - TOKEN_ADDRESS = a token address. You can get some test tokens [here](https://ethereum.stackexchange.com/questions/38743/where-can-i-find-erc20-token-faucets-for-testing
 )
 - USER_ADDRESS = the user address which checks the balance against
-
+- ENS_REGISTRY_ADDRESS = the 
 
 #### Test
 
